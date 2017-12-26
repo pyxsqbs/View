@@ -1,0 +1,1 @@
+{"version":3,"sources":["DomainPort.js"],"names":[],"mappings":";;;;;AAAA;kBACe,SAAS,M","file":"DomainPort-compiled.js","sourcesContent":["// export default \"http://\" + location.hostname + \":\" + location.port;\nexport default location.origin;\n"]}

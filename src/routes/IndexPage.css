@@ -1,0 +1,55 @@
+.bodyBack {
+  height: auto;
+  width: 100%;
+  background-size: 100% 644px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+}
+
+.search {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.searchContainer {
+  height: auto;
+  width: 50%;
+  padding-top: 80px;
+  padding-left: 48px;
+  padding-right: 40px;
+}
+
+.buttonContainer {
+  height: auto;
+  padding-top: 80px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.listContainer {
+  height: auto;
+  width: 100%;
+  padding: 0 20px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.listItem {
+  height: auto;
+  width: 33%;
+  padding: 20px;
+}
+
+.button{
+}
+
+@media screen and (max-width: 768px) {
+
+}
+
+

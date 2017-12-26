@@ -1,0 +1,6 @@
+
+html, body, :global(#root) {
+  height: auto;
+  font-weight: 100;
+  width: 100%;
+}
